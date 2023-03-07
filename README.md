@@ -1,3 +1,3 @@
 # SI-gr3
-Kowalski Arkadiusz
+# Kowalski Arkadiusz
 Sztuczna inteligencja grupa 3 
